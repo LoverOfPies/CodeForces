@@ -1,0 +1,7 @@
+D:\CodeForces\IKIT SFU\Task_A\Task_A\bin\Debug\Task_A.exe.config
+D:\CodeForces\IKIT SFU\Task_A\Task_A\bin\Debug\Task_A.exe
+D:\CodeForces\IKIT SFU\Task_A\Task_A\bin\Debug\Task_A.pdb
+D:\CodeForces\IKIT SFU\Task_A\Task_A\obj\Debug\Task_A.csprojAssemblyReference.cache
+D:\CodeForces\IKIT SFU\Task_A\Task_A\obj\Debug\Task_A.csproj.CoreCompileInputs.cache
+D:\CodeForces\IKIT SFU\Task_A\Task_A\obj\Debug\Task_A.exe
+D:\CodeForces\IKIT SFU\Task_A\Task_A\obj\Debug\Task_A.pdb

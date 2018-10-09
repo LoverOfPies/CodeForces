@@ -1,0 +1,7 @@
+D:\CodeForces\Labs\Lab4_2\Lab4_2\bin\Debug\Lab4_2.exe.config
+D:\CodeForces\Labs\Lab4_2\Lab4_2\bin\Debug\Lab4_2.exe
+D:\CodeForces\Labs\Lab4_2\Lab4_2\bin\Debug\Lab4_2.pdb
+D:\CodeForces\Labs\Lab4_2\Lab4_2\obj\Debug\Lab4_2.csprojAssemblyReference.cache
+D:\CodeForces\Labs\Lab4_2\Lab4_2\obj\Debug\Lab4_2.csproj.CoreCompileInputs.cache
+D:\CodeForces\Labs\Lab4_2\Lab4_2\obj\Debug\Lab4_2.exe
+D:\CodeForces\Labs\Lab4_2\Lab4_2\obj\Debug\Lab4_2.pdb

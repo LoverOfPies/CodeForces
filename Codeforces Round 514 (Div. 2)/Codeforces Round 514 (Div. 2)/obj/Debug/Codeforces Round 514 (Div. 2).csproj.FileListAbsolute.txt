@@ -1,0 +1,7 @@
+D:\CodeForces\Codeforces Round 514 (Div. 2)\Codeforces Round 514 (Div. 2)\bin\Debug\Codeforces Round 514 (Div. 2).exe.config
+D:\CodeForces\Codeforces Round 514 (Div. 2)\Codeforces Round 514 (Div. 2)\bin\Debug\Codeforces Round 514 (Div. 2).exe
+D:\CodeForces\Codeforces Round 514 (Div. 2)\Codeforces Round 514 (Div. 2)\bin\Debug\Codeforces Round 514 (Div. 2).pdb
+D:\CodeForces\Codeforces Round 514 (Div. 2)\Codeforces Round 514 (Div. 2)\obj\Debug\Codeforces Round 514 (Div. 2).csprojAssemblyReference.cache
+D:\CodeForces\Codeforces Round 514 (Div. 2)\Codeforces Round 514 (Div. 2)\obj\Debug\Codeforces Round 514 (Div. 2).csproj.CoreCompileInputs.cache
+D:\CodeForces\Codeforces Round 514 (Div. 2)\Codeforces Round 514 (Div. 2)\obj\Debug\Codeforces Round 514 (Div. 2).exe
+D:\CodeForces\Codeforces Round 514 (Div. 2)\Codeforces Round 514 (Div. 2)\obj\Debug\Codeforces Round 514 (Div. 2).pdb
